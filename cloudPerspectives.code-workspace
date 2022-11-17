@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "YoutubeScrapping",
+			"path": "../../Micro-Services/YoutubeScrapping"
+		}
+	],
+	"settings": {}
+}
